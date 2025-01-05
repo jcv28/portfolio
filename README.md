@@ -1,6 +1,6 @@
 IT System Administrator
 
-Technical Skills: M365,Windows 7-11,MAC,Python, SQL, AWS, , MATLAB
+Technical Skills: M365,Windows 7-11,MAC,Python, SQL, AWS, , MATLABs
 
 ## Education 
 Education
