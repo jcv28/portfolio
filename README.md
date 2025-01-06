@@ -2,7 +2,7 @@
 
 ## Amazon - Warehouse Inventory Management 
 
-###Revamped the inventory system for IT equipment, leading to a 70% improvement in efficiency, the elimination of redundancies, and a reduction in equipment costs.
+### Revamped the inventory system for IT equipment, leading to a 70% improvement in efficiency, the elimination of redundancies, and a reduction in equipment costs.
 
 - Excel:
 Organized and structured equipment data in Excel, creating fields for key attributes such as serial number, manufacturer, status, and more.
