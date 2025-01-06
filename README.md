@@ -9,7 +9,7 @@ Revamped the inventory system for IT equipment, leading to a 70% improvement in 
  - [x] Creativity: Designed interface and customized to Amazon's logo
  - [x] Functionality: App was used on tablets,iphones to keep track of inventory from aanywhere in the faccility
  - [x] Contribution: Implemented in 3 different Amazon facility
- - [x] Results:Reduced equipment costs by $200 per month, improved workflow efficiency by 70%, and decreased ticket resolution time by 5 minutes
+ - [x] Results: Reduced equipment costs by $200 per month, improved workflow efficiency by 70%, and decreased ticket resolution time by 5 minutes
 
 ## Sharepoint Structuring for ODLSS department - CPS
 
