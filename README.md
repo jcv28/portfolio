@@ -10,7 +10,7 @@
   - Contribution:  Successfully implemented the app across three different Amazon facilities, streamlining inventory management.
   - Results:  Reduced equipment costs by $200 per month, increased workflow efficiency by 70%, and cut ticket resolution time by 5 minutes.
   
-## Sharepoint Structuring for ODLSS department - CPS
+## CPS - Sharepoint Structuring for ODLSS department 
 
 1. Project Planning and Data Assessment
 -Review Existing File Shares: Assessed file structures, volumes, and permissions, identifying outdated or irrelevant content for cleanup.
