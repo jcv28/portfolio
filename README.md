@@ -4,12 +4,12 @@
 
 Revamped the inventory system for IT equipment, leading to a 70% improvement in efficiency, the elimination of redundancies, and a reduction in equipment costs.
 
- [ ] Collaborated with two other colleaagues in which my role required creating PowerApp with excel as the backend
- [ ] Collected and organized equipment data in Excel (serial#, manufacturer, status, etc)
- [ ] Designed interface and customized to Amazon's logo
- [ ] App was used on tablets,iphones to keep track of inventory from aanywhere in the faccility
- [ ] Implemented in 3 different Amazon facility
- [ ] Great Method for tracking equipment specially in start up facilities
+ - [x] Collaborated with two other colleaagues in which my role required creating PowerApp with excel as the backend
+ - [x] Collected and organized equipment data in Excel (serial#, manufacturer, status, etc)
+ - [x] Designed interface and customized to Amazon's logo
+ - [x] App was used on tablets,iphones to keep track of inventory from aanywhere in the faccility
+ - [x] Implemented in 3 different Amazon facility
+ - [x] Great Method for tracking equipment specially in start up facilities
 
 ## Sharepoint Structuring for ODLSS department - CPS
 
