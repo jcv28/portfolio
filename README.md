@@ -1,6 +1,6 @@
 # Projects & Accomplishments
 
-## Amazon - Warehouse Inventory Management 
+## *Amazon* - Warehouse Inventory Management 
 
   *Revamped the inventory system for IT equipment, leading to a 70% improvement in efficiency, the elimination of redundancies, and a reduction in equipment costs.*
 
@@ -9,7 +9,8 @@
 - *Functionality*: Optimized the app for tablets and iPhones, enabling real-time inventory tracking from any location within the facility.
 - *Contribution*: Successfully implemented the app across three Amazon facilities, streamlining inventory management processes.
 - *Results*: Reduced equipment costs by $2,600 annually, increased workflow efficiency by 70%, and decreased ticket resolution time by 5 minutes.
-## CPS - KPIs & Automations
+  
+## *CPS* - KPIs & Automations
 
   *Delivered actionable insights and driving performance improvements. Automated the employee onboarding process, streamlining task management, improving cross-functional communication.*
 
