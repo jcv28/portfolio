@@ -4,12 +4,11 @@
 
   *Revamped the inventory system for IT equipment, leading to a 70% improvement in efficiency, the elimination of redundancies, and a reduction in equipment costs.*
 
-  - *Excel*:  Organized and structured equipment data in Excel, creating fields for key attributes such as serial number, manufacturer, status, and more.
-  - *Creativity*:  Designed and customized the app’s interface to align with Amazon’s branding, incorporating the company’s logo for a cohesive user experience.
-  - *Functionality*:  The app was optimized for use on tablets and iPhones, enabling real-time inventory tracking from any location within the facility.
-  - *Contribution*:  Successfully implemented the app across three different Amazon facilities, streamlining inventory management.
-  - *Results*:  Reduced equipment costs by **$2600 yearly**, increased workflow efficiency by **70%**, and cut ticket resolution time by **5 minutes**.
-  
+- *Excel*: Organized and structured equipment data in Excel, creating fields for key attributes such as serial number, manufacturer, status, and more.
+- *Creativity*: Designed and customized the app’s interface to align with Amazon’s branding, incorporating the company’s logo for a seamless user experience.
+- *Functionality*: Optimized the app for tablets and iPhones, enabling real-time inventory tracking from any location within the facility.
+- *Contribution*: Successfully implemented the app across three Amazon facilities, streamlining inventory management processes.
+- *Results*: Reduced equipment costs by $2,600 annually, increased workflow efficiency by 70%, and decreased ticket resolution time by 5 minutes.
 ## CPS - KPIs & Automations
 
   *Delivered actionable insights and driving performance improvements. Automated the employee onboarding process, streamlining task management, improving cross-functional communication.*
