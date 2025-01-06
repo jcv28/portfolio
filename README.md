@@ -12,7 +12,7 @@
   
 ## CPS - KPIs & Automations
 
-### Developed and presented IT department KPIs using Power BI, delivering actionable insights and driving performance improvements across three offices. Automated the employee onboarding process, streamlining task management, improving cross-functional collaboration, and reducing task completion time by **half**.
+### Delivered actionable insights and driving performance improvements. Automated the employee onboarding process, streamlining task management, improving cross-functional collaboration, and reducing task completion time by **half**.
 
 - *Power BI*: Developed and presented IT department KPIs for three offices, delivering insightful data visualizations during monthly team meetings to drive performance improvements and strategic decisions.
 - *Streamlining Processes*: Automated the employee onboarding workflow, creating tasks for the HR and IT teams to ensure seamless completion of critical steps—like setting up email accounts, assigning equipment, and configuring software.
