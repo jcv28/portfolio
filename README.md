@@ -20,6 +20,9 @@
   Delivered actionable insights and driving performance improvements. Automated the employee onboarding process, streamlining task management, improving cross-functional communication.
 
 - *Power BI*: Developed and presented IT department KPIs for three offices, delivering insightful data visualizations during monthly team meetings to drive performance improvements and strategic decisions.
+  
 - *Streamlining Processes*: Automated the employee onboarding workflow, creating tasks for the HR and IT teams to ensure seamless completion of critical steps—like setting up email accounts, assigning equipment, and configuring software.
+  
 - *Collaboration*: Fostered greater cross-functional collaboration by automating task assignments and notifications, ensuring all stakeholders were aligned and informed in real-time.
+  
 - *Impact*: Reduced onboarding task completion time by **50%**, enhanced document approval workflows, improved compliance checks, and transformed meetings with impactful data visualizations that drove engagement and actionable insights.
