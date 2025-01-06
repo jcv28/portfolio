@@ -8,11 +8,11 @@
   - *Creativity*:  Designed and customized the app’s interface to align with Amazon’s branding, incorporating the company’s logo for a cohesive user experience.
   - *Functionality*:  The app was optimized for use on tablets and iPhones, enabling real-time inventory tracking from any location within the facility.
   - *Contribution*:  Successfully implemented the app across three different Amazon facilities, streamlining inventory management.
-  - *Results*:  Reduced equipment costs by **$200 per month**, increased workflow efficiency by **70%**, and cut ticket resolution time by 5 minutes.
+  - *Results*:  Reduced equipment costs by **$2600 yearly*, increased workflow efficiency by **70%**, and cut ticket resolution time by 5 minutes.
   
 ## CPS - KPIs & Automations
 
-### Delivered actionable insights and driving performance improvements. Automated the employee onboarding process, streamlining task management, improving cross-functional collaboration, and reducing task completion time by **half**.
+### Delivered actionable insights and driving performance improvements. Automated the employee onboarding process, streamlining task management, improving cross-functional communication
 
 - *Power BI*: Developed and presented IT department KPIs for three offices, delivering insightful data visualizations during monthly team meetings to drive performance improvements and strategic decisions.
 - *Streamlining Processes*: Automated the employee onboarding workflow, creating tasks for the HR and IT teams to ensure seamless completion of critical steps—like setting up email accounts, assigning equipment, and configuring software.
