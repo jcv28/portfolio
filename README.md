@@ -6,16 +6,12 @@
 
 - Excel:
 Organized and structured equipment data in Excel, creating fields for key attributes such as serial number, manufacturer, status, and more.
-
 - Creativity:
 Designed and customized the app’s interface to align with Amazon’s branding, incorporating the company’s logo for a cohesive user experience.
-
 - Functionality:
 The app was optimized for use on tablets and iPhones, enabling real-time inventory tracking from any location within the facility.
-
 - Contribution:
 Successfully implemented the app across three different Amazon facilities, streamlining inventory management.
-
 - Results:
 Reduced equipment costs by $200 per month, increased workflow efficiency by 70%, and cut ticket resolution time by 5 minutes.
 ## Sharepoint Structuring for ODLSS department - CPS
