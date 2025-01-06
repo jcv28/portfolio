@@ -1,9 +1,5 @@
-# IT System Administrator
+# Projects & Accomplishments
 
-## Education
-- B.S., Computer Science concentration in Computational Mathematics| The University of Illinois at Chicago (_May 2022_)
-
-## Projects
 ## IT Inventory Organization - Amazon 
 -Redeveloped inventory system for IT equipment which reulted in 70% improvments including efficency, eliminating redudancy and reducing equipment expenses
 - Collaborated with two other colleaagues in which my role required creating PowerApp with excel as the backend
