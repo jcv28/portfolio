@@ -10,21 +10,9 @@
   - Contribution:  Successfully implemented the app across three different Amazon facilities, streamlining inventory management.
   - Results:  Reduced equipment costs by $200 per month, increased workflow efficiency by 70%, and cut ticket resolution time by 5 minutes.
   
-## CPS - Sharepoint Structuring for ODLSS department 
+## CPS - KPIs & Automations
 
-1. Project Planning and Data Assessment
--Review Existing File Shares: Assessed file structures, volumes, and permissions, identifying outdated or irrelevant content for cleanup.
--Engage Stakeholders: Collaborated with business leaders to define migration goals, set project milestones, and align timelines with business needs.
--Design Information Architecture: Developed a SharePoint site structure by department, ensuring a logical layout with role-based access control to manage permissions effectively.
-
-2. Migration Tool Setup and Execution
--Select and Configure Migration Tool: Chose SharePoint Migration Tool (SPMT) and configured it for batch migrations, setting up destination SharePoint sites and document libraries.
--Pilot Migration: Conducted a test migration with a subset of data to validate file integrity, metadata mapping, and security settings.
--Batch Migration: Executed the migration in batches, ensuring minimal disruption and maintaining data accuracy across multiple libraries.
-
-3. Post-Migration Validation and User Adoption
-   
--Validate Migration Success: Verified the successful migration of content, ensuring files were accessible and permissions correctly applied.
--User Training & Documentation: Delivered training sessions to users, created user guides, and helped address concerns through change management strategies.
--Monitor and Optimize: Continuously monitored the environment for issues, optimizing workflows, permissions, and search functionality based on user feedback.
-
+- Power BI: Developed and presented IT department KPIs for three offices, delivering insightful data visualizations during monthly team meetings to drive performance improvements and strategic decisions.
+- Streamlining Processes: Automated the employee onboarding workflow, creating tasks for the HR and IT teams to ensure seamless completion of critical steps—like setting up email accounts, assigning equipment, and configuring software.
+- Collaboration: Fostered greater cross-functional collaboration by automating task assignments and notifications, ensuring all stakeholders were aligned and informed in real-time.
+- Impact: Reduced onboarding task completion time by 50%, enhanced document approval workflows, improved compliance checks, and transformed meetings with impactful data visualizations that drove engagement and actionable insights.
