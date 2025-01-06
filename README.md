@@ -2,7 +2,7 @@
 
 ## Amazon - Warehouse Inventory Management 
 
-  #### Revamped the inventory system for IT equipment, leading to a 70% improvement in efficiency, the elimination of redundancies, and a reduction in equipment costs.
+  *Revamped the inventory system for IT equipment, leading to a 70% improvement in efficiency, the elimination of redundancies, and a reduction in equipment costs.*
 
   - *Excel*:  Organized and structured equipment data in Excel, creating fields for key attributes such as serial number, manufacturer, status, and more.
   - *Creativity*:  Designed and customized the app’s interface to align with Amazon’s branding, incorporating the company’s logo for a cohesive user experience.
@@ -12,7 +12,7 @@
   
 ## CPS - KPIs & Automations
 
-  #### Delivered actionable insights and driving performance improvements. Automated the employee onboarding process, streamlining task management, improving cross-functional communication
+  *Delivered actionable insights and driving performance improvements. Automated the employee onboarding process, streamlining task management, improving cross-functional communication.*
 
 - *Power BI*: Developed and presented IT department KPIs for three offices, delivering insightful data visualizations during monthly team meetings to drive performance improvements and strategic decisions.
 - *Streamlining Processes*: Automated the employee onboarding workflow, creating tasks for the HR and IT teams to ensure seamless completion of critical steps—like setting up email accounts, assigning equipment, and configuring software.
