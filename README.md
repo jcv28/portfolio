@@ -12,7 +12,7 @@
   
 - *Contribution*: Successfully implemented the app across three Amazon facilities, streamlining inventory management processes.
   
-- *Results*: Reduced equipment costs by **$2,600 annually**, increased workflow efficiency by **70%**, and decreased ticket resolution time by **5 minutes**.
+- *Results*: Reduced equipment costs by **$2,600 annually**, increased workflow efficiency by **70%**, and decreased ticket resolution time by **15 minutes**.
   
   
 ## *CPS* - KPIs & Automations
