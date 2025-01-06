@@ -4,7 +4,7 @@
 - B.S., Computer Science concentration in Computational Mathematics| The University of Illinois at Chicago (_May 2022_)
 
 ## Projects
-** IT Inventory Organization - Amazon 
+## IT Inventory Organization - Amazon 
 -Redeveloped inventory system for IT equipment which reulted in 70% improvments including efficency, eliminating redudancy and reducing equipment expenses
 - Collaborated with two other colleaagues in which my role required creating PowerApp with excel as the backend
 - Collected and organized equipment data in Excel (serial#, manufacturer, status, etc)
@@ -13,7 +13,7 @@
 - Implemented in 3 different Amazon facility
 - Great Method for tracking equipment specially in start up facilities
 
-** Sharepoint Structuring for ODLSS department - CPS
+## Sharepoint Structuring for ODLSS department - CPS
 
 1. Project Planning and Data Assessment
 -Review Existing File Shares: Assessed file structures, volumes, and permissions, identifying outdated or irrelevant content for cleanup.
