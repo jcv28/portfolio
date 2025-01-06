@@ -1,6 +1,6 @@
 # Projects & Accomplishments
 
-## IT Inventory Organization - Amazon 
+## Amazon - Warehouse Inventory Management 
 -Redeveloped inventory system for IT equipment which reulted in 70% improvments including efficency, eliminating redudancy and reducing equipment expenses
 - Collaborated with two other colleaagues in which my role required creating PowerApp with excel as the backend
 - Collected and organized equipment data in Excel (serial#, manufacturer, status, etc)
