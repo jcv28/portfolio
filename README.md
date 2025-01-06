@@ -8,7 +8,7 @@
   - *Creativity*:  Designed and customized the app’s interface to align with Amazon’s branding, incorporating the company’s logo for a cohesive user experience.
   - *Functionality*:  The app was optimized for use on tablets and iPhones, enabling real-time inventory tracking from any location within the facility.
   - *Contribution*:  Successfully implemented the app across three different Amazon facilities, streamlining inventory management.
-  - *Results*:  Reduced equipment costs by **$2600 yearly*, increased workflow efficiency by **70%**, and cut ticket resolution time by 5 minutes.
+  - *Results*:  Reduced equipment costs by **$2600 yearly**, increased workflow efficiency by **70%**, and cut ticket resolution time by 5 minutes.
   
 ## CPS - KPIs & Automations
 
