@@ -26,3 +26,14 @@
 - *Collaboration*: Fostered greater cross-functional collaboration by automating task assignments and notifications, ensuring all stakeholders were aligned and informed in real-time.
   
 - *Impact*: Reduced onboarding task completion time by **50%**, enhanced document approval workflows, improved compliance checks, and transformed meetings with impactful data visualizations that drove engagement and actionable insights.
+
+
+## *EMPIST - Copilot Implementation 
+
+  Integrated GitHub Copilot into daily operations for our clients to enhance process efficiency. Identified key trends within our internal team to streamline manual      workflows, reducing the need for additional IT resources.
+
+- *Copillot*: Collaborated with the software development team to automate ticket status updates and escalations based on predefined rules. A chatbot was integrated into   our Zendesk ticketing system to assist customers with initial troubleshooting and inquiries.
+
+- *Organization*: efined a streamlined ticket structure and organized team members based on their roles and technical expertise to contribute to the creation of a         script for ticket routing automation..
+
+ - *Results*: Received positive customer feedback, strengthened relationships with stakeholders, and reduced missed SLAs by approximately **40%**, resulting in savings of **$80K** in salary and benefits.
