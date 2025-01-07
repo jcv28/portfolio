@@ -28,7 +28,7 @@
 - *Impact*: Reduced onboarding task completion time by 50%, enhanced document approval workflows, and improved compliance checks. Transformed meetings with impactful data visualizations that drove engagement and actionable insights.
 
 
-## *EMPIST - Copilot Implementation 
+## *EMPIST* - Copilot Implementation 
 
   Integrated GitHub Copilot into daily operations for our clients to enhance process efficiency. Identified key trends within our internal team to streamline manual workflows, reducing the need for additional IT resources.
 
